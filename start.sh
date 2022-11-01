@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # configs
-AUUID=e566fda4-139b-4f7b-9966-4bf9a238c43e
+AUUID=bb76be97-b2f0-48de-a7b9-991383bb2454
 CADDYIndexPage=https://github.com/shdksd/consequence-01/master.zip
 CONFIGCADDY=https://raw.githubusercontent.com/shdksd/consequence-01/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/shdksd/consequence-01/master/etc/xray.json
